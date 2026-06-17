@@ -1,1 +1,0 @@
-rootProject.name = "JB_IOC_260310_IOC_BE102"
